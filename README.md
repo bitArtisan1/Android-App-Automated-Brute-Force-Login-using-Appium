@@ -133,6 +133,10 @@ Before running the automation scripts, ensure you have the following installed a
 
 UIAutomatorViewer is a GUI tool to inspect the UI components of your Android application. It helps you understand the structure of the UI elements, which is essential for writing reliable Appium tests.
 
+<p align="center">
+  <img src="https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/416a49c0-c540-473d-a3e8-ac48040bd9f6" alt="appium"/>
+</p>
+
 ### Installing Appium Python Client
 
 1. **Install Appium Python Client:**
