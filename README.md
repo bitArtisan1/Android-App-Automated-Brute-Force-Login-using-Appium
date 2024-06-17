@@ -64,7 +64,7 @@ Before running the automation scripts, ensure you have the following installed a
    - Run the following commands to install the SDK and platform tools:
 
      ```bash
-     sdkmanager --install "platform-tools" "platforms;android-30" "build-tools;30.0.3"
+     sdkmanager --install "platform-tools" "platforms;android-30" "build-tools;30.0.3" tools
      ```
 
 3. **Add SDK Tools to PATH:**
