@@ -6,9 +6,11 @@ This repository contains an example implementation of mobile automation using Ap
 
 Appium is an open-source automation framework for automating native, mobile web, and hybrid applications on iOS and Android platforms. Appium operates on a client-server architecture. The Appium server is responsible for receiving commands from the client (such as a test script written in Python or Java), executing those commands on the mobile device or emulator, and sending back the results.
 <p align="center">
-  <img src="https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/e61fa784-7e39-4301-9a6f-915ffea1f868" alt="appium" />
+  <img src="[https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/e61fa784-7e39-4301-9a6f-915ffea1f868](https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/6a7f8e8c-6b9f-4a34-b2c4-aefe7d358d85)" alt="appium" />
 </p>
 <p align="center"><i>appium, server based automation for mobile apps</i></p>
+
+
 
 The automation script demonstrates:
 - Launching the Android application using Appium
