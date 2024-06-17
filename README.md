@@ -64,7 +64,7 @@ Before running the automation scripts, ensure you have the following installed a
    - Run the following commands to install the SDK and platform tools:
 
      ```bash
-     sdkmanager --install "platform-tools" "platforms;android-30" "build-tools;30.0.3" tools
+     sdkmanager --install "platform-tools" "platforms;android-30" "build-tools;30.0.3"
      ```
 
 3. **Add SDK Tools to PATH:**
@@ -151,8 +151,6 @@ UIAutomatorViewer is a GUI tool to inspect the UI components of your Android app
      ```
 
 ---
-
-Following these detailed steps will ensure that your environment is correctly set up for running Appium automation scripts. You are now ready to start writing and executing your Appium tests!
 
 ### Installation
 
