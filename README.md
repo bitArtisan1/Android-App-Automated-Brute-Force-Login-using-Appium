@@ -188,6 +188,13 @@ $ python appium_python_script.py
   <img src="https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/093a9306-1b41-473b-8135-67e6dc8ab8ae" alt="appium"/>
 </p>
 
+## CI/CD Integration
+You can integrate this project with your CI/CD pipeline (e.g., Jenkins, GitLab CI) for automated testing on every commit or merge to the main branch. Configure your CI tool to execute python test_script.py as part of your pipeline steps.
 
+## Contributing
+Contributions are welcome! Feel free to submit issues for bugs, feature requests, or pull requests with improvements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
