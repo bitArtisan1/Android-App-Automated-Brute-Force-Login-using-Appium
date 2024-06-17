@@ -1,4 +1,4 @@
-# Android-App-Automated-Brute-Force-Login-using-Appium
+![appium](https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/e781727e-1b2b-469d-9ea6-0cb3ce0656a3)# Android-App-Automated-Brute-Force-Login-using-Appium
 
 This repository contains an example implementation of mobile automation using Appium, focusing on interacting with Android applications. The project covers setting up Appium, writing automation scripts in Python, handling UI elements, and integrating with a continuous integration (CI) pipeline.
 
