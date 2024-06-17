@@ -197,4 +197,8 @@ Contributions are welcome! Feel free to submit issues for bugs, feature requests
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Support Me
+If you liked this, please consider leaving a star ⭐
+
+If you found this to be useful, make sure to follow me for more 🙃
 
