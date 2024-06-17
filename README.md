@@ -185,7 +185,7 @@ desired_caps = {
 $ python appium_python_script.py
 ```
 <p align="center">
-  <img src="https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/093a9306-1b41-473b-8135-67e6dc8ab8ae" alt="appium" width="300"/>
+  <img src="https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium/assets/121260820/093a9306-1b41-473b-8135-67e6dc8ab8ae" alt="appium"/>
 </p>
 
 
