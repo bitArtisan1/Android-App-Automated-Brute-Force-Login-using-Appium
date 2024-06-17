@@ -144,10 +144,40 @@ UIAutomatorViewer is a GUI tool to inspect the UI components of your Android app
 
 ---
 
-### Installation
+## Installation
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/appium-mobile-automation.git
    cd appium-mobile-automation
+   ```
+   
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Setting Up Appium:
+   
+```bash
+$ appium
+```
+
+4. Update `desired_caps` in test_script.py with your device details:
+
+```python
+desired_caps = {
+'platformName': 'Android',
+'platformVersion': '13', # Replace with your Android version
+'deviceName': 'Samsung Galaxy A71 5G', # Replace with your device name
+'appPackage': 'app.progres.webetu', # Replace with your app package name
+'appActivity': '.MainActivity', # Replace with your app's main activity
+'noReset': True
+}
+```
+5. Run the script after tailoring it to your application:
+```python
+$ python appium_python_script.py
+```
 
