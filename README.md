@@ -148,7 +148,7 @@ UIAutomatorViewer is a GUI tool to inspect the UI components of your Android app
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/appium-mobile-automation.git
+git clone https://github.com/git-aamar/Android-App-Automated-Brute-Force-Login-using-Appium.git
 cd appium-mobile-automation
 ```
    
