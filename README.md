@@ -1,12 +1,11 @@
-# Android-App-Automated-Brute-Force-Login-using-Appium
-
-
 <div align="right">
     <a href="https://www.buymeacoffee.com/bitArtisan">
         <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee Pls!" />
     </a>
 </div>
 
+
+# Android-App-Automated-Brute-Force-Login-using-Appium
 
 This repository contains an example implementation of mobile automation using Appium, focusing on interacting with Android applications. The project covers setting up Appium, writing automation scripts in Python, handling UI elements, and integrating with a continuous integration (CI) pipeline.
 
